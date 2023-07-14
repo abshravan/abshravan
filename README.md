@@ -10,8 +10,7 @@ Hello there! Welcome to my GitHub Profile. I'm an undergraduate student with a k
 - 🔭  Currently, I am working on my pre-final year project, which focuses on developing a traffic congestion control system using vehicle-to-vehicle communication. This project aims to leverage emerging technologies to improve traffic flow and reduce congestion on the roads. I am excited to explore the potential of wireless communication between vehicles and develop intelligent algorithms for traffic optimization.  
   
 
-- 🌱 I’m currently learning Machine learning From Internshala  
-  
+- 🌱 I’m currently learning C# and Unity for game devleopment
 
 - ❓ Ask me about anything related to Linux ,Python, and C .                                  
     Sure!!!!!!! I will help you out  
