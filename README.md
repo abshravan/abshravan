@@ -87,11 +87,3 @@ Hello there! Welcome to my GitHub Profile. I'm an undergraduate student with a k
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abshravan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abshravan&hide_border=true&layout=compact" align="left" />  
-
-<br/>  
