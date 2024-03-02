@@ -16,6 +16,8 @@ As a junior pursuing a Bachelor's degree in Computer Science focusing on Cyber S
 ![](https://github-readme-stats.vercel.app/api?username=abshravan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abshravan&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abshravan&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+##💻 Try Hack Me
+<script src="https://tryhackme.com/badge/1110959"></script>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abshravan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
