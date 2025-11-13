@@ -4,7 +4,7 @@
 
 ### A B Shravan Krishna
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%26+Robotics+Explorer;Full+Stack+Developer;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+%26+Robotics+Explorer;LLM+Engineer;Lifelong+Learner)](https://git.io/typing-svg)
 
 **`Tech Explorer • Problem Solver • Builder`**
 
