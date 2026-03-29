@@ -26,6 +26,8 @@
 
 ---
 
+> 📌 Work in progress is being tracked in `WORK_PLAN.txt`.
+
 ## 🚀 About Me
 
 > *"I don't chase greatness. I build it — one project, one bug, one breakthrough at a time."*
