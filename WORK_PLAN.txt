@@ -1,0 +1,37 @@
+AB Shravan Repository Work Plan
+===============================
+
+Created on: 2026-03-29
+
+Goal
+----
+Create a concrete starting point for iterative improvements to this repository.
+
+Phase 1: Baseline cleanup
+-------------------------
+1. Verify repository file structure and add missing project scaffolding files if needed.
+2. Standardize profile links and badges in README.md.
+3. Add a changelog/worklog process for future updates.
+
+Phase 2: Content quality
+------------------------
+1. Refresh the "Last Updated" metadata and keep it current.
+2. Validate external links (LinkedIn, portfolio, badges).
+3. Improve project descriptions with repo links and outcomes.
+
+Phase 3: Engineering readiness
+------------------------------
+1. Add CONTRIBUTING.md with contribution workflow.
+2. Add LICENSE if not present.
+3. Add issue templates and PR template.
+
+Current status
+--------------
+- [x] Initial work plan created.
+- [ ] README metadata refresh.
+- [ ] Link audit.
+- [ ] Contribution files.
+
+Notes
+-----
+This file is intended to be the text-file anchor for upcoming work requested by the user.
